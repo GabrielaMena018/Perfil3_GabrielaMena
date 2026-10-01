@@ -9,7 +9,7 @@ export const HomeScreen = ({ navigation }) => {
     <ScrollView style={styles.container}>
       <View style={styles.headerSection}>
         <Image
-          source={require('../../assets/pokeball.png')}
+          source={require('../../assets/images/icon.png')}
           style={styles.logo}
           resizeMode="contain"
         />

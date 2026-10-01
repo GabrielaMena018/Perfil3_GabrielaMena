@@ -1,23 +1,18 @@
 {
   "expo": {
-    "name": "PokeShowsApp",
+    "name": "Perfil3",
     "slug": "PokeShowsApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/pokeball.png",
-    "scheme": "pokeshowsapp",
+    "icon": "./assets/images/Pokeball.png",
+    "scheme": "perfil3",
     "userInterfaceStyle": "automatic",
-    "splash": {
-      "image": "./assets/pokeball.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/pokeball.png",
+        "foregroundImage": "./assets/images/Pokeball.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.menagabriela.PokeShowsApp"
+      "package": "com.menagabriela.Perfil3"
     },
     "plugins": [],
     "extra": {
